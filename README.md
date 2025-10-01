@@ -18,32 +18,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,tailwind,git,github,vscode,figma,bootstrap&perline=8" />
-</p>
-
----
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanIsmat&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanIsmat&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanIsmat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanIsmat&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
